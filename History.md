@@ -1,8 +1,11 @@
 
-0.0.4 / 2015-11-18
+0.0.5 / 2015-11-18
 ==================
 
   * check for duplicates on link
+
+0.0.4 / 2015-11-18
+==================
   * explicit upsort, downsort. add tests
   * add function to get sorted nodes from single root
 
